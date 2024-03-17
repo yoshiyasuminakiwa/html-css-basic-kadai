@@ -5,16 +5,11 @@ h1 {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  }
-.first-heading,.second-heading,p {
-  font-size: 20px;
-}
-h1{
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow:1px 2px 3px grey ;
   border-bottom: 3px rgb(115, 115, 114) solid;
-}
+  }
 .first-heading{
   color: rgb(255,192,203);
 }
@@ -33,8 +28,7 @@ h1,p,.first-heading,.second-heading{
 #basic p {
   font-weight: bold;
 }
-<style>
- html {
+<style> {
   font-size: 20px;
  }
  </style>
