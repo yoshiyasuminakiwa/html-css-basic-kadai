@@ -6,7 +6,7 @@ h1 {
   font-optical-sizing: auto;
   font-style: normal;
   }
-.paragraph{
+.first-heading,.second-heading,p {
   font-size: 20px;
 }
 h1{
