@@ -1,0 +1,35 @@
+body{
+  font-family:"Arial", "Meiryo", sans-serif; 
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  }
+.paragraph{
+  font-size: 20px;
+}
+h1{
+  font-size: 40px;
+  letter-spacing: 1.2em;
+  text-shadow:1px 2px 3px grey ;
+  border-bottom: 3px rgb(115, 115, 114) solid;
+}
+.first-heading{
+  color: rgb(255,192,203);
+}
+.second-heading{
+  color: skyblue;
+}
+h1,p,.first-heading,.second-heading{
+  text-align: center;
+}
+.skyblue {
+  color: skyblue;
+}
+.pink {
+  color:rgb(255,192,203);
+}
+#basic p {
+  font-weight: bold;
+}
