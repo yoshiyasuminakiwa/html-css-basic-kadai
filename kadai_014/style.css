@@ -18,6 +18,7 @@ h1 {
 }
 h1,p,.first-heading,.second-heading{
   text-align: center;
+  font-size: 20px;
 }
 .skyblue {
   color: skyblue;
@@ -28,7 +29,3 @@ h1,p,.first-heading,.second-heading{
 #basic p {
   font-weight: bold;
 }
-<style> {
-  font-size: 20px;
- }
- </style>
